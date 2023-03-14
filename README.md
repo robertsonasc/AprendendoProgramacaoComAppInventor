@@ -1,7 +1,7 @@
 ## Célula de estudos UFC Quixadá: Aprendendo Programação Com App Inventor
 
 ### 1. Motivação 
-<div style="text-align: justify">
+<div align="justify">
 
 Saudações pessoal, quero começar apresentando um pouco sobre o ministrante desta célula: eu sou aluno quase concludente de Engenharia de Software (ES) aqui do Campus UFC Quixadá. Durante minha graduação fui me inclinando mais a gostar das disciplinas de programação, desde Fundamentos de Programação (FUP) - Graças ao professor David Sena. Com o passar dos semestres, mais especificamente no 8º em diante, quando cursei as disciplinas de Desenvolvimento Web e Dispositivos Móveis, criei ainda mais gosto pela nossa área. Dito isso, quero fazer o seguinte questionamento juntamente com vocês aqui e agora: **Porquê meu gosto aumentou pela área depois que fiz estas duas disciplinas?** 
 
@@ -16,7 +16,7 @@ Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de 
 
 O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.appinventor.mit.edu), que funciona de maneira parecida com uma *Play Store* da vida. Depois de finalizado o projeto de um aplicativo, o usuário autor pode publica-lo na galeria, onde lá ele ficará disponível para que outros usuários possam baixar, executar, e, por ventura, modificar a sua respectiva cópia, de modo independente do aplicativo publicado originalmente. Sendo também, uma plataforma de código aberto, se caracterizando pelo compartilhamento de conhecimento e aprendizado mútuo.
 
-**Nota:** Para que os filtros de ordenação da galaria funcionem corretamente, efetue primeiro o login na plataforma:
+**Nota:** Para que os filtros de exibição da galaria funcionem corretamente, efetue primeiro o login na plataforma:
 
 <ol>
   <li>
@@ -25,7 +25,7 @@ O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.ap
   </li>
   <li>
   
-  Siga as instruções das imagem abaixo.
+  Siga as instruções das imagem abaixo
   </li>
 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/1.png?raw=true)
