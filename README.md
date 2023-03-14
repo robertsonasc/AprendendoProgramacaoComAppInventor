@@ -41,7 +41,23 @@ No App Inventor a tipagem de variáveis não é fixa, "como assim?", se iniciali
 
 Logo, precisamos de alguma funcionalidade que nos permita testar se o valor de uma determinada variável é número, por exemplo. Para isto, existe um bloco do tipo "Matemático" (cor azul) que faz exatamente esta verificação. 
 
-#### 2.2 Blocos & Documentação
+#### 2.2 Escopo
+
+O conceito de escopo de variável pode ser novo para vocês, essencialmente ele está muito relacionado ao conceito de função que é tratado no próximo módulo. Porém, é importante ser citado aqui como uma caracteristica de uma variável. 
+
+Podemos pensar no escopo de uma variável como um sinal WIFI por exemplo, se a variável v1 tem o escopo da WIFI w1, ela só é acessível dentro da área de cobertura de w1. Ou seja, se alguém estiver dentro da zona de cobertura da WIFI w2, que fica fora de alcance da w1, e quiser acessar v1, não conseguirá. v1 neste caso pode ser definida como **variável local.**
+
+Referindo-se a escopo, no App Inventor existem estes dois tipo: escopo local, e global. Diferentemente do escopo local, **variáveis definidas com escopo global** podem ser ecessadas de qualquer "ponto dentro de qualquer cobertura WIFI" (ler parágrafo anterior) no programa. Seguindo o exemplo da WIFI, é como se a variável global fosse de fato publicada na internet, e não apenas na rede LAN.
+
+E um escopo dentro de um escopo? É perfeitamente normal, porém devemos ressaltar que, digamos uma variável v1 está no escopo de fora, se o programador desejar usar a variável v1 dentro do escopo de dentro não tem problema, entretanto, o contrário (acessar v1 no escopo de fora se ela tiver sido criada no escopo de dentro) não resultará em um erro.
+
+#### 2.3 Nomenclatura
+
+Parece bobo, mas é importante que os nomes das variáveis sejam correspondentes as suas respectivas funções dentro do aplicativo. Acreditem, é bem mais fácil entender um código de variáveis com nomes do tipo "valorDeEntrada" ou "tokenDeAcesso", do que "v" ou "t". 
+
+Aqui no curso, os nomes das variáveis podem se confundir com os nomes dos componentes de interface de usuário. Portanto, quero deixar logo claro esta divergência: Uma caixa de texto por exemplo, é o componente que é renderizado na tela do celular, podendo ter o nome "caixaDeTextoEsquerda". Já uma variável que eventualmente guarda e faz operações com o conteúdo deste componente é outra coisa, podendo ter o nome "stringEsquerda". 
+
+#### 2.4 Blocos & Documentação
 
 http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
