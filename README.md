@@ -49,7 +49,7 @@ Podemos pensar no escopo de uma variável como um sinal WIFI por exemplo, se a v
 
 Referindo-se a escopo, no App Inventor existem estes dois tipo: escopo local, e global. Diferentemente do escopo local, **variáveis definidas com escopo global** podem ser ecessadas de qualquer "ponto dentro de qualquer cobertura WIFI" (ler parágrafo anterior) no programa. Seguindo o exemplo da WIFI, é como se a variável global fosse de fato publicada na internet, e não apenas na rede LAN.
 
-E um escopo dentro de um escopo? É perfeitamente normal, porém devemos ressaltar que, digamos uma variável v1 está no escopo de fora, se o programador desejar usar a variável v1 dentro do escopo de dentro não tem problema, entretanto, o contrário (acessar v1 no escopo de fora se ela tiver sido criada no escopo de dentro) não resultará em um erro.
+E um escopo dentro de um escopo? É perfeitamente normal, porém devemos ressaltar que, digamos uma variável v1 está no escopo de fora, se o programador desejar usar a variável v1 dentro do escopo de dentro não tem problema, entretanto, o contrário (acessar v1 no escopo de fora se ela tiver sido criada no escopo de dentro) resultará em um erro.
 
 #### 2.3 Nomenclatura
 
