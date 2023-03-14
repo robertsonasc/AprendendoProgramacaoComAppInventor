@@ -12,7 +12,7 @@ Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de 
 </div>
 
 #### 1.1 Exemplos de aplicativos 
-<div style="text-align: justify">
+<div align="justify">
 
 O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.appinventor.mit.edu), que funciona de maneira parecida com uma *Play Store* da vida. Depois de finalizado o projeto de um aplicativo, o usuário autor pode publica-lo na galeria, onde lá ele ficará disponível para que outros usuários possam baixar, executar, e, por ventura, modificar a sua respectiva cópia, de modo independente do aplicativo publicado originalmente. Sendo também, uma plataforma de código aberto, se caracterizando pelo compartilhamento de conhecimento e aprendizado mútuo.
 
