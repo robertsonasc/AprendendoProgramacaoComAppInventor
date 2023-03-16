@@ -7,7 +7,7 @@ Saudações pessoal, quero começar apresentando um pouco sobre o ministrante de
 
 Acho que vocês já entenderam onde quero chegar, meu ponto é, muitas das vezes nós (os estudantes) precisamos esperar bastante para pormos em prática o que aprendemos dos nossos estudos de computação. Principalmente quando se trata de criar aplicações com interfaces gráficas e feedback visual. Logicamente, a universidade tem seus motivos para isto, tendo que ensinar os conceitos fundamentais de computação e também conteúdos mais voltados a especificidade do respectivo curso antes de dar início a estes determinados conteúdos que envolvem interfaces gráficas, que na maioria das vezes são mais atraentes e estimulantes para os alunos.
 
-Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de FUP, usando uma ferramenta de criação de aplicativos móveis, por programação por blocos, que será a <a href="https://appinventor.mit.edu/" target="_blank">MIT App Inventor</a>.** A programação por blocos resume muitas das coisas das quais se é preciso dominar se comparada a programação comum (codificada). Então, aproveitando as funcionalidades que o App Inventor nos fornece, podemos focar mais na parte lógica dos algoritmos de programação em si. Assim (eu espero) poder contribuir com o aprendizado de vocês, e além do mais, também lhes causar estímulo na contínua jornada que é ser um profissional da área de TI, mostrando a possibilidade de coisas que já é possível serem criadas com uma ferramenta de programação por blocos de fácil acesso. 
+Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de FUP, usando uma ferramenta de criação de aplicativos móveis, por programação por blocos, que será a [MIT App Inventor](https://appinventor.mit.edu/){:target="_blank" rel="noopener"}.** A programação por blocos resume muitas das coisas das quais se é preciso dominar se comparada a programação comum (codificada). Então, aproveitando as funcionalidades que o App Inventor nos fornece, podemos focar mais na parte lógica dos algoritmos de programação em si. Assim (eu espero) poder contribuir com o aprendizado de vocês, e além do mais, também lhes causar estímulo na contínua jornada que é ser um profissional da área de TI, mostrando a possibilidade de coisas que já é possível serem criadas com uma ferramenta de programação por blocos de fácil acesso. 
 
 #### 1.1 Exemplos de aplicativos 
 
@@ -59,7 +59,9 @@ Aqui no curso, os nomes das variáveis podem se confundir com os nomes dos compo
 
 #### 2.4 Blocos & Documentação
 
-Neste <a href="http://ai2.appinventor.mit.edu/reference/blocks/variables.html" target="_blank">link</a>  abaixo vocês encontrarão a documentação completa dos blocos referentes a variáveis no App Inventor.
+No link abaixo vocês encontrarão a documentação completa dos blocos referentes a variáveis no App Inventor.
+
+http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
 #### 2.5 Exercícios
 
