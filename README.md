@@ -79,13 +79,11 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
   </li>
 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.1.png?raw=true)
-
   <li>
     Qual o valor da variável filho ao final da execução dos blocos abaixo? A execução gera algum erro semântico? Se sim, qual? (Dica: <a href="https://www.devmedia.com.br/forum/o-que-difere-um-erro-sintatico-de-um-erro-semantico/571029"> Diferença entre erro semântico e sintático</a>)
   </li>
 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.2.png?raw=true)
-
   <li>
     Qual o valor da variável total ao final da execução dos blocos abaixo? A execução gera algum erro? Se sim, qual?
   </li>
