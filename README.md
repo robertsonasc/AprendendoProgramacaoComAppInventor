@@ -7,18 +7,18 @@ Saudações pessoal, quero começar apresentando um pouco sobre o ministrante de
 
 Acho que vocês já entenderam onde quero chegar, meu ponto é, muitas das vezes nós (os estudantes) precisamos esperar bastante para pormos em prática o que aprendemos dos nossos estudos de computação. Principalmente quando se trata de criar aplicações com interfaces gráficas e feedback visual. Logicamente, a universidade tem seus motivos para isto, tendo que ensinar os conceitos fundamentais de computação e também conteúdos mais voltados a especificidade do respectivo curso antes de dar início a estes determinados conteúdos que envolvem interfaces gráficas, que na maioria das vezes são mais atraentes e estimulantes para os alunos.
 
-Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de FUP, usando uma ferramenta de criação de aplicativos móveis, por programação por blocos, que será a [MIT App Inventor](https://appinventor.mit.edu/){:target="_blank" rel="noopener"}.** A programação por blocos resume muitas das coisas das quais se é preciso dominar se comparada a programação comum (codificada). Então, aproveitando as funcionalidades que o App Inventor nos fornece, podemos focar mais na parte lógica dos algoritmos de programação em si. Assim (eu espero) poder contribuir com o aprendizado de vocês, e além do mais, também lhes causar estímulo na contínua jornada que é ser um profissional da área de TI, mostrando a possibilidade de coisas que já é possível serem criadas com uma ferramenta de programação por blocos de fácil acesso. 
+Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de FUP, usando uma ferramenta de criação de aplicativos móveis, por programação por blocos, que será a [MIT App Inventor](https://appinventor.mit.edu/).** A programação por blocos resume muitas das coisas das quais se é preciso dominar se comparada a programação comum (codificada). Então, aproveitando as funcionalidades que o App Inventor nos fornece, podemos focar mais na parte lógica dos algoritmos de programação em si. Assim (eu espero) poder contribuir com o aprendizado de vocês, e além do mais, também lhes causar estímulo na contínua jornada que é ser um profissional da área de TI, mostrando a possibilidade de coisas que já é possível serem criadas com uma ferramenta de programação por blocos de fácil acesso. 
 
 #### 1.1 Exemplos de aplicativos 
 
-O App Inventor possui uma página de <a href="https://gallery.appinventor.mit.edu" target="_blank">Galeria de Aplicativos</a>, que funciona de maneira parecida com uma *Play Store* da vida. Depois de finalizado o projeto de um aplicativo, o usuário autor pode publica-lo na galeria, onde lá ele ficará disponível para que outros usuários possam baixar, executar, e, por ventura, modificar a sua respectiva cópia, de modo independente do aplicativo publicado originalmente. Sendo também, uma plataforma de código aberto, se caracterizando pelo compartilhamento de conhecimento e aprendizado mútuo.
+O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.appinventor.mit.edu), que funciona de maneira parecida com uma *Play Store* da vida. Depois de finalizado o projeto de um aplicativo, o usuário autor pode publica-lo na galeria, onde lá ele ficará disponível para que outros usuários possam baixar, executar, e, por ventura, modificar a sua respectiva cópia, de modo independente do aplicativo publicado originalmente. Sendo também, uma plataforma de código aberto, se caracterizando pelo compartilhamento de conhecimento e aprendizado mútuo.
 
 **Nota:** Para que os filtros de exibição da galaria funcionem corretamente, efetue primeiro o login na plataforma:
 
 <ol>
   <li>
   
-  <a href="https://appinventor.mit.edu/" target="_blank">Acesse a plataforma App Inventor</a>
+  [Acesse a plataforma App Inventor](https://appinventor.mit.edu/)
   </li>
   <li>
   
@@ -80,7 +80,7 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.1.png?raw=true)
   <li>
-    Qual o valor da variável filho ao final da execução dos blocos abaixo? A execução gera algum erro semântico? Se sim, qual? (Dica: <a href="https://www.devmedia.com.br/forum/o-que-difere-um-erro-sintatico-de-um-erro-semantico/571029" target="_blank"> Diferença entre erro semântico e sintático</a>)
+    Qual o valor da variável filho ao final da execução dos blocos abaixo? A execução gera algum erro semântico? Se sim, qual? (Leia: <a href=")https://www.devmedia.com.br/forum/o-que-difere-um-erro-sintatico-de-um-erro-semantico/571029"> Diferença entre erro semântico e sintático</a>)
   </li>
 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.2.png?raw=true)
