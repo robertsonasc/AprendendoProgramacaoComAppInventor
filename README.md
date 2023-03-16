@@ -59,7 +59,37 @@ Aqui no curso, os nomes das variáveis podem se confundir com os nomes dos compo
 
 #### 2.4 Blocos & Documentação
 
+No link abaixo vocês encontrarão a documentação completa dos blocos referentes a variáveis no App Inventor.
+
 http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
+#### 2.5 Exercícios
 
+<ol>
+  <li>
+    Crie um aplicativo que lê do usuário dois valores, salvando cada valor em uma variável. Depois junte os valores e salve em uma terceira variável, em seguida, mostre-a na tela como resultado da junção. 
+  </li>
+
+  <li>
+    Faça a mesma coisa da questão anterior, porém, restrinja os valores a serem apenas números. E ao contrário de juntar os valores, faça botões para mostrar as quatro operações matemáticas entre os dois valores das variávies lidas. Desconsidere o erro de divisão por 0.
+  </li>
+
+  <li>
+    Qual o valor da variável pai ao final da execução dos blocos abaixo?
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.1.png?raw=true)
+
+  <li>
+    Qual o valor da variável filho ao final da execução dos blocos abaixo? A execução gera algum erro semântico? Se sim, qual? (Dica: <a href="https://www.devmedia.com.br/forum/o-que-difere-um-erro-sintatico-de-um-erro-semantico/571029"> Diferença entre erro semântico e sintático</a>)
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.2.png?raw=true)
+
+  <li>
+    Qual o valor da variável total ao final da execução dos blocos abaixo? A execução gera algum erro? Se sim, qual?
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.3.png?raw=true)
+</ol>
 </div>
