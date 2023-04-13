@@ -90,4 +90,11 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.3.png?raw=true)
 </ol>
+
+### 3 Funções
+
+Durante o processo de construção de um código, o programador irá se deparar com situações onde uma determinada tarefa deverá ser executada diversas vezes, esta que, pode ou não receber parâmetros de entrada que serão utilizados para a geração do resultado da referida tarefa, e deve terminar sua execução retornando um valor para o escopo no qual foi chamada, ou apenas realizar uma ação de modo independente, sem retorno de valor, mas com alguma mudança no contexto do programa. Isto, por sua vez, é a definição de uma função computacional. 
+
+Com o App Inventor em português do Brasil, os blocos referentes a funções são retratados como blocos do tipo "procedimento" 
+
 </div>
