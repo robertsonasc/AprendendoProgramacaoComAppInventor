@@ -93,8 +93,44 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
 ### 3 Funções
 
-Durante o processo de construção de um código, o programador irá se deparar com situações onde uma determinada tarefa deverá ser executada diversas vezes, esta que, pode ou não receber parâmetros de entrada que serão utilizados para a geração do resultado da referida tarefa, e deve terminar sua execução retornando um valor para o escopo no qual foi chamada, ou apenas realizar uma ação de modo independente, sem retorno de valor, mas com alguma mudança no contexto do programa. Isto, por sua vez, é a definição de uma função computacional. 
+Durante o processo de construção de um código, o programador irá se deparar com situações onde uma determinada tarefa deverá ser executada diversas vezes, esta que, pode ou não receber parâmetros de entrada que serão utilizados para a geração do seu resultado. Devendo terminar sua execução retornando um valor para o escopo no qual foi chamada, ou apenas realizar uma ação de modo independente, sem retorno de valor, mas com alguma mudança no contexto do programa. Isto, por sua vez, é uma definição de uma função computacional. 
 
-Com o App Inventor em português do Brasil, os blocos referentes a funções são retratados como blocos do tipo "procedimento" 
+Com o App Inventor em português do Brasil, os blocos referentes a funções são retratados como blocos do tipo "procedimento". Os quais podem ser dos dois tipos relatados no parágrafo anterior, sendo procedimentos com retorno, e sem retorno, podendo qualquer um dos dois possuir parâmetros de entrada ou não. 
+
+O conceito de função pode ser muito abrangente, contudo, foi considerado aqui o que está diretamente ligado ao App Inventor. A documentação destes blocos se encontra no link a seguir.
+
+http://ai2.appinventor.mit.edu/reference/blocks/procedures.html
+
+Na sequência de imagens a seguir é mostrado o processo de utilização de uma função na plataforma.
+
+<ol>
+  <li>
+    Primeiro selecione o bloco do procedimento que deseja usar, se é do tipo com, ou sem retorno. Neste caso, o bloco escolhido precisa de retorno.
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/102.png?raw=true)
+  <li>
+    Caso precise usar parâmetros, clique na engrenagem e arraste os blocos de entrada para a parte direita do popup.
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/104.png?raw=true)
+  <li>
+    Perceba que agora o bloco da função criada, está disponível para ser usado nos blocos do tipo procedimentos.
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/105.png?raw=true)
+  <li>
+    Por fim, veja como seria o uso desta função:
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/106.png?raw=true)
+</ol>
+
+#### 3.1 Exercício de Pensamento
+
+Imagine a situação onde um gerente de um depósito de construção precisa, todo mês, pelo menos uma vez, calcular qual será a quantidade de cada produto que será necessária a realização de uma compra mensal, com a finalidade de reposição de estoque. Ok, sendo que o gerente sabe que no seu depósito existem cinquenta tipos diferentes de produtos. Suponha que para escrever um algorítmo, um programador opte por percorrer a lista de tipos de produtos, e para cada tipo, retornando a quantidade de compras para reposição, levando em consideração o critério de reposição somente se existir 10 ou menos produtos do mesmo tipo. 
+
+Como você acha que deve ser feito este algorítmo? Elabore um algoritmo em programação por blocos que em teoria realiza o que o gerente precisa (somente a ideia, não precisa executar).
+
 
 </div>
