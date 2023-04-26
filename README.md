@@ -1,7 +1,7 @@
 ## Célula de estudos UFC Quixadá: Aprendendo Programação Com App Inventor
 <div align="justify">
 
-### 1. Motivação 
+## 1. Motivação 
 
 Saudações pessoal, quero começar apresentando um pouco sobre o ministrante desta célula: eu sou aluno quase concludente de Engenharia de Software (ES) aqui do Campus UFC Quixadá. Durante minha graduação fui me inclinando mais a gostar das disciplinas de programação, desde Fundamentos de Programação (FUP) - Graças ao professor David Sena. Com o passar dos semestres, mais especificamente no 8º em diante, quando cursei as disciplinas de Desenvolvimento Web e Dispositivos Móveis, criei ainda mais gosto pela nossa área. Dito isso, quero fazer o seguinte questionamento juntamente com vocês aqui e agora: **Porquê meu gosto aumentou pela área depois que fiz estas duas disciplinas?** 
 
@@ -9,7 +9,7 @@ Acho que vocês já entenderam onde quero chegar, meu ponto é, muitas das vezes
 
 Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de FUP, usando uma ferramenta de criação de aplicativos móveis, por programação por blocos, que será a [MIT App Inventor](https://appinventor.mit.edu/).** A programação por blocos resume muitas das coisas das quais se é preciso dominar se comparada a programação comum (codificada). Então, aproveitando as funcionalidades que o App Inventor nos fornece, podemos focar mais na parte lógica dos algoritmos de programação em si. Assim (eu espero) poder contribuir com o aprendizado de vocês, e além do mais, também lhes causar estímulo na contínua jornada que é ser um profissional da área de TI, mostrando a possibilidade de coisas que já é possível serem criadas com uma ferramenta de programação por blocos de fácil acesso. 
 
-#### 1.1 Exemplos de aplicativos 
+### 1.1 Exemplos de aplicativos 
 
 O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.appinventor.mit.edu), que funciona de maneira parecida com uma *Play Store* da vida. Depois de finalizado o projeto de um aplicativo, o usuário autor pode publica-lo na galeria, onde lá ele ficará disponível para que outros usuários possam baixar, executar, e, por ventura, modificar a sua respectiva cópia, de modo independente do aplicativo publicado originalmente. Sendo também, uma plataforma de código aberto, se caracterizando pelo compartilhamento de conhecimento e aprendizado mútuo.
 
@@ -31,17 +31,17 @@ O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.ap
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/2.png?raw=true)
 </ol>
 
-### 2. Variáveis
+## 2. Variáveis
 
 Se tratando de um conceito inicial em programação, porém fundamentalmente importante, as variáveis são espaços de memória que servem para armazenar dados durante a execução de um programa. Estas que, **no App Inventor, podem ser basicamente de dois tipos: Números; e Texto**. Dito isso, podemos já interpretar que devem existir tratamentos de erros com operações utilizando variáveis. Pois, imagine o cenário que o usuário quer somar dois valores que estão em variáveis lidas de dados fornecidos pelo usuário, porém um dos valores é um número e o outro é um texto, sendo assim o App Inventor irá gerar um erro, e nós, os programadores devemos tratar tal problema, de modo a restringir as operações do nosso programa durante o tempo de execução. 
 
-#### 2.1 Tipagem
+### 2.1 Tipagem
 
 No App Inventor a tipagem de variáveis não é fixa, "como assim?", se inicializarmos uma variável com o número 1, e depois setarmos ela com o texto "eae", isto não irá lançar nenhum erro. 
 
 Logo, precisamos de alguma funcionalidade que nos permita testar se o valor de uma determinada variável é número, por exemplo. Para isto, existe um bloco do tipo "Matemático" (cor azul) que faz exatamente esta verificação. 
 
-#### 2.2 Escopo
+### 2.2 Escopo
 
 O conceito de escopo de variável pode ser novo para vocês, essencialmente ele está muito relacionado ao conceito de função que é tratado no próximo módulo. Porém, é importante ser citado aqui como uma caracteristica de uma variável. 
 
@@ -51,19 +51,19 @@ Referindo-se a escopo, no App Inventor existem estes dois tipo: escopo local, e 
 
 E um escopo dentro de um escopo? É perfeitamente normal, porém devemos ressaltar que, digamos uma variável v1 está no escopo de fora, se o programador desejar usar a variável v1 dentro do escopo de dentro não tem problema, entretanto, o contrário (acessar v1 no escopo de fora se ela tiver sido criada no escopo de dentro) resultará em um erro.
 
-#### 2.3 Nomenclatura
+### 2.3 Nomenclatura
 
 Parece bobo, mas é importante que os nomes das variáveis sejam correspondentes as suas respectivas funções dentro do aplicativo. Acreditem, é bem mais fácil entender um código de variáveis com nomes do tipo "valorDeEntrada" ou "tokenDeAcesso", do que "v" ou "t". 
 
 Aqui no curso, os nomes das variáveis podem se confundir com os nomes dos componentes de interface de usuário. Portanto, quero deixar logo claro esta divergência: Uma caixa de texto por exemplo, é o componente que é renderizado na tela do celular, podendo ter o nome "caixaDeTextoEsquerda". Já uma variável que eventualmente guarda e faz operações com o conteúdo deste componente é outra coisa, podendo ter o nome "stringEsquerda". 
 
-#### 2.4 Blocos & Documentação
+### 2.4 Blocos & Documentação
 
 No link abaixo vocês encontrarão a documentação completa dos blocos referentes a variáveis no App Inventor.
 
 http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
-#### 2.5 Exercícios
+### 2.5 Exercícios
 
 <ol>
   <li>
@@ -91,7 +91,7 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.3.png?raw=true)
 </ol>
 
-### 3 Funções
+## 3 Funções
 
 Durante o processo de construção de um código, o programador irá se deparar com situações onde uma determinada tarefa deverá ser executada diversas vezes, esta que, pode ou não receber parâmetros de entrada que serão utilizados para a geração do seu resultado. Devendo terminar sua execução retornando um valor para o escopo no qual foi chamada, ou apenas realizar uma ação de modo independente, sem retorno de valor, mas com alguma mudança no contexto do programa. Isto, por sua vez, é uma definição de uma função computacional. 
 
@@ -126,7 +126,7 @@ Na sequência de imagens a seguir é mostrado o processo de utilização de uma 
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/106.png?raw=true)
 </ol>
 
-#### 3.1 Exercício de Pensamento
+### 3.1 Exercício de Pensamento
 
 Imagine a situação onde um gerente de um depósito de construção precisa, todo mês, pelo menos uma vez, calcular qual será a quantidade de cada produto que será necessária a realização de uma compra mensal, com a finalidade de reposição de estoque. Ok, sendo que o gerente sabe que no seu depósito existem cinquenta tipos diferentes de produtos. Suponha que para escrever um algorítmo, um programador opte por percorrer a lista de tipos de produtos, e para cada tipo, retornando a quantidade de compras para reposição, levando em consideração o critério de reposição somente se existir 10 ou menos produtos do mesmo tipo. 
 
