@@ -146,6 +146,14 @@ No App Inventor, os blocos de seleção são chamados de tipo "Controle". São e
 
 Perceba que existem três variações principais, e uma quarta com o bloco sendo de retorno, podendo receber uma expresssão lógica, onde se ela for satisfeita, o bloco retorna o que estiver no encaixe "então", caso contrário o bloco retorna o que estiver no encaixe "senão".
 
+A imagem abaixo mostra como é o fluxo de execução de um bloco simples de seleção. As linhas <span style="color:green">verdes</span> representam os caminhos que o algoritmo irá seguir caso as expressões de encaixe "se" forem satisfeitas. e os caminhos <span style="color:red">vermelhos</span> representam o fluxo de execução caso as duas expressões não forem satisfeitas. 
+
+![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/109.png?raw=true)
+
+Ao fazermos uma análise semântica sobre este bloco, percebemos que não há a possibilidade do fluxo de execução do algoritmo entrar dentro do "primeiro se" e também do "segundo se" durante uma mesma execução. Pois ao entrar dentro do primeiro, o fluxo acaba, sem mesmo testar a expressão do "segundo se".
+
+Manipular corretamente este fluxo de execução, é uma habilidade que um bom programador precisa possuir.
+
 ### 4.1 Exercícios
 
 Nesta seção, por se tratar de um conteúdo que requer bastante prática, vamos optar por usar exercícios de do curso FUP is FUN, disponibilizado no moodle do campus UFC Quixadá, voltado para o uso dos alunos também deste campus.
