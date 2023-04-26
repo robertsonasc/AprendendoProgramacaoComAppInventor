@@ -155,10 +155,15 @@ Ao fazermos uma análise semântica sobre este bloco, percebemos que não há a 
 Por fim, podemos concluir que cada uma das três execuções que irão nos encaixes "então/senão", são exclusivas, em relação as outras duas. Um exemplo interessante que podemos pensar para facilitar o entendimento é: Imagine um cenário onde queremos testar se Bergson já passou da metade da campanha do jogo Hogwarts Legacy, o pseudo código ficaria 
 
 se Bergson zerou Hogwarts Legacy, faça:
+
 &emsp;retorne sim
+
 se não, se Bergson está entre a metade e o fim da campanha de Hogwarts Legacy, faça:
+
 &emsp;retorne sim
+
 se não, faça:
+
 &emsp;retorne não
 
 Manipular corretamente este fluxo de execução, é uma habilidade que um bom programador precisa possuir.
