@@ -150,13 +150,22 @@ A imagem abaixo mostra como é o fluxo de execução de um bloco simples de sele
 
 ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/109.png?raw=true)
 
-Ao fazermos uma análise semântica sobre este bloco, percebemos que não há a possibilidade do fluxo de execução do algoritmo entrar dentro do "primeiro se" e também do "segundo se" durante uma mesma execução. Pois ao entrar dentro do primeiro, o fluxo acaba, sem mesmo testar a expressão do "segundo se".
+Ao fazermos uma análise semântica sobre este bloco, percebemos que não há a possibilidade do fluxo de execução entrar dentro do "primeiro se" e também do "segundo se" durante uma mesma execução. Pois ao entrar dentro do primeiro, o fluxo acaba, sem mesmo testar a expressão do "segundo se". Além disso, também podemos notar que o que está no "ultimo se não" só será executado se as duas expressões anteriores não forem satisfeitas, ou seja, além de ser a negação do "segundo se", é como se ele também fosse um "se não" do "primeiro se". 
+
+Por fim, podemos concluir que cada uma das três execuções que irão nos encaixes "então/senão", são exclusivas, em relação as outras duas. Um exemplo interessante que podemos pensar para facilitar o entendimento é: Imagine um cenário onde queremos testar se Bergson já passou da metade da campanha do jogo Hogwarts Legacy, o pseudo código ficaria 
+
+se Bergson zerou Hogwarts Legacy, faça:
+&emsp;retorne sim
+se não, se Bergson está entre a metade e o fim da campanha de Hogwarts Legacy, faça:
+&emsp;retorne sim
+se não, faça:
+&emsp;retorne não
 
 Manipular corretamente este fluxo de execução, é uma habilidade que um bom programador precisa possuir.
 
 ### 4.1 Exercícios
 
-Nesta seção, por se tratar de um conteúdo que requer bastante prática, vamos optar por usar exercícios de do curso FUP is FUN, disponibilizado no moodle do campus UFC Quixadá, voltado para o uso dos alunos também deste campus.
+Nesta seção, por se tratar de um conteúdo que requer bastante prática, vamos optar por usar exercícios de do curso [FUP is FUN](https://moodle2.quixada.ufc.br/course/view.php?id=3), disponibilizado no moodle do campus UFC Quixadá, voltado para o uso dos alunos também deste campus.
 
 Como as questões do Fup Is Fun são feitas para serem respondidas em linguagens de programação codificadas, teremos que fazer uma adaptação para o ambiente de programação por blocos do App Inventor. Onde na grande maioria das questões, basta que utilizemos alguns poucos componentes de interface visual, sendo eles CaixaDeTexto, Legenda, e Botão. Com isso, já podemos ilustrar e testar o funcionamento correto das questões. 
 
