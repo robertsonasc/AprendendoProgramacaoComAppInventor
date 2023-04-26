@@ -152,7 +152,7 @@ A imagem abaixo mostra como é o fluxo de execução de um bloco simples de sele
 
 Ao fazermos uma análise semântica sobre este bloco, percebemos que não há a possibilidade do fluxo de execução entrar dentro do "primeiro se" e também do "segundo se" durante uma mesma execução. Pois ao entrar dentro do primeiro, o fluxo acaba, sem mesmo testar a expressão do "segundo se". Além disso, também podemos notar que o que está no "ultimo se não" só será executado se as duas expressões anteriores não forem satisfeitas, ou seja, além de ser a negação do "segundo se", é como se ele também fosse um "se não" do "primeiro se". 
 
-Por fim, podemos concluir que cada uma das três execuções que irão nos encaixes "então/senão", são exclusivas, em relação as outras duas. Um exemplo interessante que podemos pensar para facilitar o entendimento é: Imagine um cenário onde queremos testar se Bergson já passou da metade da campanha do jogo Hogwarts Legacy, o pseudo código ficaria 
+Por fim, podemos concluir que cada uma das três execuções que irão nos encaixes "então/senão", são exclusivas, em relação as outras duas. Um exemplo interessante que podemos pensar para facilitar o entendimento é: Imagine um cenário onde queremos testar se Bergson já passou da metade da campanha do jogo Hogwarts Legacy, o pseudocódigo ficaria 
 
 se Bergson zerou Hogwarts Legacy, faça:<br/>&emsp;resultado = sim<br/>se não, se Bergson está entre a metade e o fim da campanha de Hogwarts Legacy, faça:<br/>&emsp;resultado =  sim<br/>se não, faça:<br/>&emsp;resultado =  não
 
@@ -166,6 +166,7 @@ Como as questões do Fup Is Fun são feitas para serem respondidas em linguagens
 
 Para os interessados por este curso que não são alunos do campus UFC Quixadá, vocês podem acessar as questões relacionadas ao conteúdo de seleção através [deste link](https://github.com/senapk/arcade/blob/master/lista_compiladas/01_operacoes_selecao/questoes.cpp) do GitHub do professor David Sena.
 
+<ul><li>
 
-
+[Vídeo do encontro da célula que está mais relacionado a este conteúdo](https://youtu.be/_D0Tp0LuU9E)</li></ul>
 </div>
