@@ -91,7 +91,7 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
   ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/q1.3.png?raw=true)
 </ol>
 
-## 3 Funções
+## 3. Funções
 
 Durante o processo de construção de um código, o programador irá se deparar com situações onde uma determinada tarefa deverá ser executada diversas vezes, esta que, pode ou não receber parâmetros de entrada que serão utilizados para a geração do seu resultado. Devendo terminar sua execução retornando um valor para o escopo no qual foi chamada, ou apenas realizar uma ação de modo independente, sem retorno de valor, mas com alguma mudança no contexto do programa. Isto, por sua vez, é uma definição de uma função computacional. 
 
@@ -131,6 +131,29 @@ Na sequência de imagens a seguir é mostrado o processo de utilização de uma 
 Imagine a situação onde um gerente de um depósito de construção precisa, todo mês, pelo menos uma vez, calcular qual será a quantidade de cada produto que será necessária a realização de uma compra mensal, com a finalidade de reposição de estoque. Ok, sendo que o gerente sabe que no seu depósito existem cinquenta tipos diferentes de produtos. Suponha que para escrever um algorítmo, um programador opte por percorrer a lista de tipos de produtos, e para cada tipo, retornando a quantidade de compras para reposição, levando em consideração o critério de reposição somente se existir 10 ou menos produtos do mesmo tipo. 
 
 Como você acha que deve ser feito este algorítmo? Elabore um algoritmo em programação por blocos que em teoria realiza o que o gerente precisa (somente a ideia, não precisa executar).
+
+## 4. Seleção
+
+O computador nada mais faz além do que ele foi programado para fazer. Ou seja, por vezes encaramos problemas ao desenvolver algum tipo de algoritmo e acabamos nos estressando bastante. Mas, é importante manter a calma nestes momentos, lembrar que o computador não possui "vida própria", e então procurar entender o problema para em fim consertá-lo.
+
+Não obstante a isto, o áto de estudar, aprender, e masterizar lógica de programação pode previnir o acontecimento erros durante a produção de um algoritmo. Por isso é tão importante os estudantes de Ciência da Computação focarem em tais habilidades. A base da lógica computacional pode ser a grosso modo definida pela frase "se isso, então aquilo". Este, é o conteúdo abordado nesta seção.
+
+Já dizia um professor meu de graduação da disciplina de Fundamentos de Programação (David Sena): "programação é como uma luta de UFC, você não aprende assistindo os outros lutando, e sim praticando luta". É importante que todos os adéptos a ingressar em programação tenham isso em mente. 
+
+No App Inventor, os blocos de seleção são chamados de tipo "Controle". São eles:
+
+![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/108.png?raw=true)
+
+Perceba que existem três variações principais, e uma quarta com o bloco sendo de retorno, podendo receber uma expresssão lógica, onde se ela for satisfeita, o bloco retorna o que estiver no encaixe "então", caso contrário o bloco retorna o que estiver no encaixe "senão".
+
+### 4.1 Exercícios
+
+Nesta seção, por se tratar de um conteúdo que requer bastante prática, vamos optar por usar exercícios de do curso FUP is FUN, disponibilizado no moodle do campus UFC Quixadá, voltado para o uso dos alunos também deste campus.
+
+Como as questões do Fup Is Fun são feitas para serem respondidas em linguagens de programação codificadas, teremos que fazer uma adaptação para o ambiente de programação por blocos do App Inventor. Onde na grande maioria das questões, basta que utilizemos alguns poucos componentes de interface visual, sendo eles CaixaDeTexto, Legenda, e Botão. Com isso, já podemos ilustrar e testar o funcionamento correto das questões. 
+
+Para os interessados por este curso que não são alunos do campus UFC Quixadá, vocês podem acessar as questões relacionadas ao conteúdo de seleção através [deste link](https://github.com/senapk/arcade/blob/master/lista_compiladas/01_operacoes_selecao/questoes.cpp) do GitHub do professor David Sena.
+
 
 
 </div>
