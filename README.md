@@ -169,4 +169,73 @@ Para os interessados por este curso que não são alunos do campus UFC Quixadá,
 <ul><li>
 
 [Vídeo do encontro da célula que está mais relacionado a este conteúdo](https://youtu.be/_D0Tp0LuU9E)</li></ul>
+
+## 5. Repetição
+
+Quando chegamos em Repetição (laço), é provavelmente um momento de virada de página interessante no que diz respeito a evolução do nosso pensamento computacional. Podemos descrever o processo inicial de aprendizagem de programação separando-o em algumas partes principais: 
+
+<ol>
+  <li>
+    Como o computador executa uma tarefa: Ai entendemos o que é um algoritmo.
+  </li>
+  <li>
+    Armazenamento e manipulação de dados durante tais tarefas: Variáveis.
+  </li>
+  <li>
+    Execuções de tarefas de maneira separada, que, por fim sejam integradas em uma execução (algoritmo) principal, também resultado em reaproveitamento de código: Uso de funções.
+  </li>
+  <li>
+    Agora, quero lhes fazer um questionamento, o que torna o computador mais eficaz que um ser humano na realização de um tarefa? O que ele tem de especial que nos faz cada dia mais avançar nas pesquisas da área de computação? Sobre isso, acredito que tal fato aconteça por duas razões:
+  </li>
+  <ul>
+    <li>
+      Repetição: O computador não "enjoa" ou "cansa" de fazer determinada tarefa várias vezes repetidamente, como contar de 1 a 1000, ou procurar números que sejam multiplos de uma valor recebido como entrada, por exemplo. Ele simplesmente faz o que foi programado para fazer, sem fazer questionamentos ou análise sobre tal comportamento (por enquanto, desconsidere Inteligência Artificial). Já pessoas, bom, vocês sabem como pessoas são...
+    </li>
+    <li>
+      Programável: Isto é o que torna também o computador especial, ele não só faz uma quantidade 'x' de tarefas, mas pode ser programado para realizar infinitas tarefas de formas diferentes. 
+    </li>
+  </ul>
+</ol>
+
+Agora que já fiz vocês pensarem um pouco, vamos entrar de fato nos conceitos de repetição, vou explicar do ponto de vista de programação por blocos via App Inventor, mas o entendimente serve para programação codificada também.
+
+### 5.1 Estado inicial, ciclo de cada repetição, e estado final
+
+Ao se encontrar com uma situação onde se é preciso o uso de repetição, primeiro, tente pensar no "estado inicial" que o seu algoritmo deve estar para que o laço comece a executar. Após isto, analise o que deverá ser feito durante cada ciclo de execução dentro do seu programa, de modo que um ciclo, geralmente está diretamente ligado ao seus ciclos anteriores o posteriores, ou seja, tudo acontece de modo interligado, você deve pensar tanto separadamente, quando na integração da execução como um todo. Por fim, veja qual será sua condição de parada para que o laço de repetições acabe, ou seja, antes de ser executado o que está dentro do laço, esta espressão lógica sejá calculada, se ela for verdadeira significa que você conseguiu obter o resultado que procurava e já não precisa mais de repetições. Logicamente que este processo sem sempre acontece desta forma, ou nesta sequência. 
+
+O processo de criação de um algoritmo e sua programação é livre, não se prenda a pensar de um determinado modo na hora de programar. Apenas faça do jeito que você conseguir, mas não esqueça de atribuir uma boa legibilidade ao seu algoritmo, pois vai facilitar tanto para você precisar entender seu código (por blocos também) no futuro, quanto para o caso de outro programador precisar entender sua "obra prima".
+
+Os blocos essenciais do tipo de Repetição que fazem parte do App Inventor são estes:
+
+![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/5.1.png?raw=true)
+
+O bloco acima é o de repetição mais simples, ele pode ser descrito como um bloco equivalente ao comando `while` em uma linguagem codificada.
+
+![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/5.2.png?raw=true)
+
+Já este segundo bloco, é mais parecido com o comando `for`. Porém, uma ressalva importante, o bloco que encaixa em "passo" dá a entender que representa "contador mais 1, ou i++", errado! Ele apenas representa o valor dos saltos entre o valor do bloco encaixado em "deste", até o valor do bloco encaixado em "até" ("deste" e "até" inclusos). Caso você altere o valor de "número" ao final de um ciclo, no próximo ciclo, o valor da variável "número" não conterá tal alteração, é como se os valores de "número" fossem fixos de "deste" - "até", com o espaço "passo" entre cada valor de "número". 
+
+### 5.2 Exemplos 
+
+Pense e responda só para você, para o que os seguintes trêchos de blocos servem:
+
+<ol>
+  <li>
+  </li>
+
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/5.3.png?raw=true)
+  <li>
+  </li>
+  
+  ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/5.4.png?raw=true)
+</ol>
+
+### 5.3 Exercícios
+
+Assim como na sessão anterior, para os que possuem acesso ao Moodle UFC Quixadá, vou recomendar vocês estudarem laço fazendo questões do curso [FUP is FUN](https://moodle2.quixada.ufc.br/course/view.php?id=3). Já para os que não possuem acesso ao Moodle, acessem [este link](https://github.com/senapk/arcade/blob/master/lista_compiladas/05_laco_math/questoes.cpp) do GitHub do professor David Sena, lá tem várias questões legais que envolvem repetição. 
+
+Lembrando que todas estas questões foram elaboradas para serem resolvidas por programação comum (codificada), porém, elas podem ser resolvidas por programação por blocos, bastando ser criado um pequeno aplicativo com componentes que recebem as entradas das questões, um campo para mostrar o resultado, e um botão para disparar o evento de execução do algoritmo que você irá criar - coisa que a essa altura, não deve ser difícil para vocês fazerem. Quero dizer, foquem na parte lógica da programação por blocos, não precisa infeitar demais a interface gráfica dos aplicativos. 
+
+Boms estudos e até o nosso último e não menos importante assunto, listas!
+
 </div>
