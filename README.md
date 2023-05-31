@@ -7,7 +7,7 @@
   <li>
 
   <!-- [Vídeo da célula de estudos relecionado a este tópico](https://youtu.be/-k7NKoM7ScA) -->
-  <a href="https://youtu.be/-k7NKoM7ScA" target="_blank">Vídeo da célula de estudos relecionado a este tópico</a>
+  <a href="https://external.ink?to=youtu.be/-k7NKoM7ScA" target="_blank">Vídeo da célula de estudos relecionado a este tópico</a>
   </li>
 </ul>
 
