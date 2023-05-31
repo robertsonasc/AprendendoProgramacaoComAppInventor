@@ -3,6 +3,8 @@
 
 ## 1. Motivação 
 
+***Dica:*** Abra os links deste README em uma nova aba do seu navegador, para você não se perder na leitura :wink:.
+
 <ul>
   <li>
 
