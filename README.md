@@ -1,7 +1,22 @@
 ## Célula de estudos UFC Quixadá: Aprendendo Programação Com App Inventor
 <div align="justify">
 
+## Informações iniciais
+
+Este repositório (conteúdo via README) tem o objetivo de ser um material auxiliar aos participantes da célula de estudos de programação com o App Inventor, esta, que está se passando no semestre 2023.1 na Universidade Federal do Ceará - Campus Quixadá. Tanto os vídeos criados pelo autor da célula, como este respositório ficarão posteriormente de livre acesso para os demais interessados em estudar programação por blocos via App Inventor.
+
 ***Dica:*** Abra os links deste README em uma nova aba do seu navegador, para você não se perder na leitura :wink:.
+
+<ul>
+  <li>
+
+  [Playlist completa dos encontros da célula](https://www.youtube.com/playlist?list=PLwBWD6dTMHUcKqfRyQ295B_mVfJxov7El)
+  </li>
+  <li>
+
+  [Aplicativos criados na célula](https://gallery.appinventor.mit.edu/byauthor/13c356ec-9494-1ad7-24ab-ab9e6ee0a589/name) (efetue primeiro o seu [login na Galeria de aplicativos App Inventor](#11-exemplos-de-aplicativos) antes de acessar este link)
+  </li>
+</ul>
 
 ## 1. Motivação 
 
@@ -22,7 +37,7 @@ Portanto, esta célula tem por objetivo principal ensinar alguns **conceitos de 
 
 O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.appinventor.mit.edu), que funciona de maneira parecida com uma *Play Store* da vida. Depois de finalizado o projeto de um aplicativo, o usuário autor pode publica-lo na galeria, onde lá ele ficará disponível para que outros usuários possam baixar, executar, e, por ventura, modificar a sua respectiva cópia, de modo independente do aplicativo publicado originalmente. Sendo também, uma plataforma de código aberto, se caracterizando pelo compartilhamento de conhecimento e aprendizado mútuo.
 
-**Nota:** Para que os filtros de exibição da galaria funcionem corretamente, efetue primeiro o login na plataforma:
+**Nota:** Para que os filtros de exibição da galaria funcionem corretamente, efetue primeiro o login na galeria:
 
 <ol>
   <li>
@@ -112,7 +127,7 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 <ul>
   <li>
 
-  Vídeo(s) da célula de estudos relecionado a este tópico: [1 - parte 1/2](https://youtu.be/GkBEQ6v8hfM) | [1 - parte 2/2](https://youtu.be/zpb7-K_nz00)
+  Vídeos da célula de estudos relecionado a este tópico: [1 - parte 1/2](https://youtu.be/GkBEQ6v8hfM) | [1 - parte 2/2](https://youtu.be/zpb7-K_nz00)
   </li>
 </ul>
 
@@ -201,7 +216,7 @@ Para os interessados por este curso que não são alunos do campus UFC Quixadá,
 <ul>
   <li>
 
-  Vídeo(s) da célula de estudos relecionado a este tópico: [1](https://youtu.be/BcXmbjZ11uo) | [2 - parte 1/2](https://youtu.be/y8OFsMXRAUI) | [2 - parte 2/2](https://youtu.be/zrRGpF-_McY)
+  Vídeos da célula de estudos relecionado a este tópico: [1](https://youtu.be/BcXmbjZ11uo) | [2 - parte 1/2](https://youtu.be/y8OFsMXRAUI) | [2 - parte 2/2](https://youtu.be/zrRGpF-_McY)
   </li>
 </ul>
 
