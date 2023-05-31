@@ -43,11 +43,11 @@ Logo, precisamos de alguma funcionalidade que nos permita testar se o valor de u
 
 ### 2.2 Escopo
 
-O conceito de escopo de variável pode ser novo para vocês, essencialmente ele está muito relacionado ao conceito de função que é tratado no próximo módulo. Porém, é importante ser citado aqui como uma caracteristica de uma variável. 
+O conceito de escopo de variável pode ser novo para vocês, essencialmente ele está muito relacionado ao conceito de função que é tratado no próximo módulo. Porém, é importante ser citado aqui como uma característica de uma variável. 
 
 Podemos pensar no escopo de uma variável como um sinal WIFI por exemplo, se a variável v1 tem o escopo da WIFI w1, ela só é acessível dentro da área de cobertura de w1. Ou seja, se alguém estiver dentro da zona de cobertura da WIFI w2, que fica fora de alcance da w1, e quiser acessar v1, não conseguirá. v1 neste caso pode ser definida como **variável local.**
 
-Referindo-se a escopo, no App Inventor existem estes dois tipo: escopo local, e global. Diferentemente do escopo local, **variáveis definidas com escopo global** podem ser ecessadas de qualquer "ponto dentro de qualquer cobertura WIFI" (ler parágrafo anterior) no programa. Seguindo o exemplo da WIFI, é como se a variável global fosse de fato publicada na internet, e não apenas na rede LAN.
+Referindo-se a escopo, no App Inventor existem estes dois tipo: escopo local, e global. Diferentemente do escopo local, **variáveis definidas com escopo global** podem ser acessadas de qualquer "ponto dentro de qualquer cobertura WIFI" (ler parágrafo anterior) no programa. Seguindo o exemplo da WIFI, é como se a variável global fosse de fato publicada na internet, e não apenas na rede LAN.
 
 E um escopo dentro de um escopo? É perfeitamente normal, porém devemos ressaltar que, digamos uma variável v1 está no escopo de fora, se o programador desejar usar a variável v1 dentro do escopo de dentro não tem problema, entretanto, o contrário (acessar v1 no escopo de fora se ela tiver sido criada no escopo de dentro) resultará em um erro.
 
@@ -71,7 +71,7 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
   </li>
 
   <li>
-    Faça a mesma coisa da questão anterior, porém, restrinja os valores a serem apenas números. E ao contrário de juntar os valores, faça botões para mostrar as quatro operações matemáticas entre os dois valores das variávies lidas. Desconsidere o erro de divisão por 0.
+    Faça a mesma coisa da questão anterior, porém, restrinja os valores a serem apenas números. E ao contrário de juntar os valores, faça botões para mostrar as quatro operações matemáticas entre os dois valores das variáveis lidas. Desconsidere o erro de divisão por 0.
   </li>
 
   <li>
@@ -128,9 +128,9 @@ Na sequência de imagens a seguir é mostrado o processo de utilização de uma 
 
 ### 3.1 Exercício de Pensamento
 
-Imagine a situação onde um gerente de um depósito de construção precisa, todo mês, pelo menos uma vez, calcular qual será a quantidade de cada produto que será necessária a realização de uma compra mensal, com a finalidade de reposição de estoque. Ok, sendo que o gerente sabe que no seu depósito existem cinquenta tipos diferentes de produtos. Suponha que para escrever um algorítmo, um programador opte por percorrer a lista de tipos de produtos, e para cada tipo, retornando a quantidade de compras para reposição, levando em consideração o critério de reposição somente se existir 10 ou menos produtos do mesmo tipo. 
+Imagine a situação onde um gerente de um depósito de construção precisa, todo mês, pelo menos uma vez, calcular qual será a quantidade de cada produto que será necessária a realização de uma compra mensal, com a finalidade de reposição de estoque. Ok, sendo que o gerente sabe que no seu depósito existem cinquenta tipos diferentes de produtos. Suponha que para escrever um algoritmo, um programador opte por percorrer a lista de tipos de produtos, e para cada tipo, retornando a quantidade de compras para reposição, levando em consideração o critério de reposição somente se existir 10 ou menos produtos do mesmo tipo. 
 
-Como você acha que deve ser feito este algorítmo? Elabore um algoritmo em programação por blocos que em teoria realiza o que o gerente precisa (somente a ideia, não precisa executar).
+Como você acha que deve ser feito este algoritmo? Elabore um algoritmo em programação por blocos que em teoria realiza o que o gerente precisa (somente a ideia, não precisa executar).
 
 ## 4. Seleção
 
