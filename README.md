@@ -1,9 +1,9 @@
 ## Célula de estudos UFC Quixadá: Aprendendo Programação Com App Inventor
 <div align="justify">
 
-## 1. Motivação 
-
 ***Dica:*** Abra os links deste README em uma nova aba do seu navegador, para você não se perder na leitura :wink:.
+
+## 1. Motivação 
 
 <ul>
   <li>
