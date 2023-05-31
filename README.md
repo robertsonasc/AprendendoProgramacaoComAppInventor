@@ -6,7 +6,7 @@
 <ul>
   <li>
 
-  [Vídeo(s) da célula de estudos relecionado a este tópico](https://youtu.be/-k7NKoM7ScA)
+  [Vídeo da célula de estudos relecionado a este tópico](https://youtu.be/-k7NKoM7ScA)
   </li>
 </ul>
 
@@ -43,7 +43,7 @@ O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.ap
 <ul>
   <li>
 
-  Vídeo(s) da célula de estudos relecionado a este tópico: [1 - parte 1/2](https://youtu.be/_D0Tp0LuU9E) | [1 - parte 2/2](https://youtu.be/zpb7-K_nz00)
+  [Vídeo da célula de estudos relecionado a este tópico](https://youtu.be/_D0Tp0LuU9E)
   </li>
 </ul>
 
@@ -110,7 +110,7 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 <ul>
   <li>
 
-  [Vídeo(s) da célula de estudos relecionado a este tópico](https://youtu.be/GkBEQ6v8hfM)
+  Vídeo(s) da célula de estudos relecionado a este tópico: [1 - parte 1/2](https://youtu.be/GkBEQ6v8hfM) | [1 - parte 2/2](https://youtu.be/zpb7-K_nz00)
   </li>
 </ul>
 
