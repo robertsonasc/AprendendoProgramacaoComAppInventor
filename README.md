@@ -173,28 +173,27 @@ Para os interessados por este curso que não são alunos do campus UFC Quixadá,
 ## 5. Repetição
 
 Quando chegamos em Repetição (laço), é provavelmente um momento de virada de página interessante no que diz respeito a evolução do nosso pensamento computacional. Podemos descrever o processo inicial de aprendizagem de programação separando-o em algumas partes principais: 
-
 <ol>
-  <li>
+<li>
 Como o computador executa uma tarefa: Ai entendemos o que é um algoritmo.
-  </li>
-  <li>
+</li>
+<li>
 Armazenamento e manipulação de dados durante tais tarefas: Variáveis.
-  </li>
-  <li>
+</li>
+<li>
 Execuções de tarefas de maneira separada, que, por fim sejam integradas em uma execução (algoritmo) principal, também resultado em reaproveitamento de código: Uso de funções.
-  </li>
-  <li>
+</li>
+<li>
 Agora, quero lhes fazer um questionamento, o que torna o computador mais eficaz que um ser humano na realização de um tarefa? O que ele tem de especial que nos faz cada dia mais avançar nas pesquisas da área de computação? Sobre isso, acredito que tal fato aconteça por duas razões:
-  </li>
-  <ul>
-    <li>
+</li>
+<ul>
+<li>
 Repetição: O computador não "enjoa" ou "cansa" de fazer determinada tarefa várias vezes repetidamente, como contar de 1 a 1000, ou procurar números que sejam múltiplos de uma valor recebido como entrada, por exemplo. Ele simplesmente faz o que foi programado para fazer, sem fazer questionamentos ou análise sobre tal comportamento (por enquanto, desconsidere Inteligência Artificial). Já pessoas, bom, vocês sabem como pessoas são...
-    </li>
-    <li>
+</li>
+<li>
 Programável: Isto é o que torna também o computador especial, ele não só faz uma quantidade 'x' de tarefas, mas pode ser programado para realizar infinitas tarefas de formas diferentes. 
-    </li>
-  </ul>
+</li>
+</ul>
 </ol>
 
 Agora que já fiz vocês pensarem um pouco, vamos entrar de fato nos conceitos de repetição, vou explicar do ponto de vista de programação por blocos via App Inventor, mas o entendimento serve para programação codificada também.
