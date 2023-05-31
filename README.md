@@ -3,6 +3,13 @@
 
 ## 1. Motivação 
 
+<ul>
+  <li>
+
+  [Vídeo(s) da célula de estudos relecionado a este tópico](https://youtu.be/-k7NKoM7ScA)
+  </li>
+</ul>
+
 Saudações pessoal, quero começar apresentando um pouco sobre o ministrante desta célula: eu sou aluno quase concludente de Engenharia de Software (ES) aqui do Campus UFC Quixadá. Durante minha graduação fui me inclinando mais a gostar das disciplinas de programação, desde Fundamentos de Programação (FUP) - Graças ao professor David Sena. Com o passar dos semestres, mais especificamente no 8º em diante, quando cursei as disciplinas de Desenvolvimento Web e Dispositivos Móveis, criei ainda mais gosto pela nossa área. Dito isso, quero fazer o seguinte questionamento juntamente com vocês aqui e agora: **Porquê meu gosto aumentou pela área depois que fiz estas duas disciplinas?** 
 
 Acho que vocês já entenderam onde quero chegar, meu ponto é, muitas das vezes nós (os estudantes) precisamos esperar bastante para pormos em prática o que aprendemos dos nossos estudos de computação. Principalmente quando se trata de criar aplicações com interfaces gráficas e feedback visual. Logicamente, a universidade tem seus motivos para isto, tendo que ensinar os conceitos fundamentais de computação e também conteúdos mais voltados a especificidade do respectivo curso antes de dar início a estes determinados conteúdos que envolvem interfaces gráficas, que na maioria das vezes são mais atraentes e estimulantes para os alunos.
@@ -32,6 +39,13 @@ O App Inventor possui uma página de [Galeria de Aplicativos](https://gallery.ap
 </ol>
 
 ## 2. Variáveis
+
+<ul>
+  <li>
+
+  Vídeo(s) da célula de estudos relecionado a este tópico: [1 - parte 1/2](https://youtu.be/_D0Tp0LuU9E) | [1 - parte 2/2](https://youtu.be/zpb7-K_nz00)
+  </li>
+</ul>
 
 Se tratando de um conceito inicial em programação, porém fundamentalmente importante, as variáveis são espaços de memória que servem para armazenar dados durante a execução de um programa. Estas que, **no App Inventor, podem ser basicamente de dois tipos: Números; e Texto**. Dito isso, podemos já interpretar que devem existir tratamentos de erros com operações utilizando variáveis. Pois, imagine o cenário que o usuário quer somar dois valores que estão em variáveis lidas de dados fornecidos pelo usuário, porém um dos valores é um número e o outro é um texto, sendo assim o App Inventor irá gerar um erro, e nós, os programadores devemos tratar tal problema, de modo a restringir as operações do nosso programa durante o tempo de execução. 
 
@@ -93,6 +107,13 @@ http://ai2.appinventor.mit.edu/reference/blocks/variables.html
 
 ## 3. Funções
 
+<ul>
+  <li>
+
+  [Vídeo(s) da célula de estudos relecionado a este tópico](https://youtu.be/GkBEQ6v8hfM)
+  </li>
+</ul>
+
 Durante o processo de construção de um código, o programador irá se deparar com situações onde uma determinada tarefa deverá ser executada diversas vezes, esta que, pode ou não receber parâmetros de entrada que serão utilizados para a geração do seu resultado. Devendo terminar sua execução retornando um valor para o escopo no qual foi chamada, ou apenas realizar uma ação de modo independente, sem retorno de valor, mas com alguma mudança no contexto do programa. Isto, por sua vez, é uma definição de uma função computacional. 
 
 Com o App Inventor em português do Brasil, os blocos referentes a funções são retratados como blocos do tipo "procedimento". Os quais podem ser dos dois tipos relatados no parágrafo anterior, sendo procedimentos com retorno, e sem retorno, podendo qualquer um dos dois possuir parâmetros de entrada ou não. 
@@ -134,6 +155,13 @@ Como você acha que deve ser feito este algoritmo? Elabore um algoritmo em progr
 
 ## 4. Seleção
 
+<ul>
+  <li>
+
+  [Vídeo da célula de estudos relecionado a este tópico](https://youtu.be/BcXmbjZ11uo)
+  </li>
+</ul>
+
 O computador nada mais faz além do que ele foi programado para fazer. Ou seja, por vezes encaramos problemas ao desenvolver algum tipo de algoritmo e acabamos nos estressando bastante. Mas, é importante manter a calma nestes momentos, lembrar que o computador não possui "vida própria", e então procurar entender o problema para em fim consertá-lo.
 
 Não obstante a isto, o ato de estudar, aprender, e masterizar lógica de programação pode prevenir o acontecimento erros durante a produção de um algoritmo. Por isso é tão importante os estudantes de Ciência da Computação focarem em tais habilidades. A base da lógica computacional pode ser a grosso modo definida pela frase "se isso, então aquilo". Este, é o conteúdo abordado nesta seção.
@@ -166,11 +194,14 @@ Como as questões do Fup Is Fun são feitas para serem respondidas em linguagens
 
 Para os interessados por este curso que não são alunos do campus UFC Quixadá, vocês podem acessar as questões relacionadas ao conteúdo de seleção através [deste link](https://github.com/senapk/arcade/blob/master/lista_compiladas/01_operacoes_selecao/questoes.cpp) do GitHub do professor David Sena.
 
-<ul><li>
-
-[Vídeo do encontro da célula que está mais relacionado a este conteúdo](https://youtu.be/_D0Tp0LuU9E)</li></ul>
-
 ## 5. Repetição
+
+<ul>
+  <li>
+
+  Vídeo(s) da célula de estudos relecionado a este tópico: [1](https://youtu.be/BcXmbjZ11uo) | [2 - parte 1/2](https://youtu.be/y8OFsMXRAUI) | [2 - parte 2/2](https://youtu.be/zrRGpF-_McY)
+  </li>
+</ul>
 
 Quando chegamos em Repetição (laço), é provavelmente um momento de virada de página interessante no que diz respeito a evolução do nosso pensamento computacional. Podemos descrever o processo inicial de aprendizagem de programação separando-o em algumas partes principais: 
 <ol>
