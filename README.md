@@ -1,5 +1,3 @@
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v1.0.0/main.min.js'></script>
-
 ## Célula de estudos UFC Quixadá: Aprendendo Programação Com App Inventor
 <div align="justify">
 
@@ -8,7 +6,8 @@
 <ul>
   <li>
 
-  [Vídeo da célula de estudos relecionado a este tópico {_ext}](https://youtu.be/-k7NKoM7ScA)
+  <!-- [Vídeo da célula de estudos relecionado a este tópico](https://youtu.be/-k7NKoM7ScA) -->
+  <a href="https://youtu.be/-k7NKoM7ScA" target="_blank">Vídeo da célula de estudos relecionado a este tópico</a>
   </li>
 </ul>
 
