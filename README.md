@@ -265,14 +265,13 @@ Já este segundo bloco, é mais parecido com o comando `for`. Porém, uma ressal
 ### 5.2 Exemplos 
 
 Pense e responda só para você, para o que os seguintes trechos de blocos servem:
-
 <ol>
-  <li>
-  </li>
+<li>
+</li>
 
 ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/5.3.png?raw=true)
-  <li>
-  </li>
+<li>
+</li>
  
 ![](https://github.com/robertsonasc/AprendendoProgramacaoComAppInventor/blob/master/imagens/5.4.png?raw=true)
 </ol>
