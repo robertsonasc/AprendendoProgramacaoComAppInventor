@@ -282,6 +282,6 @@ Assim como na sessão anterior, para os que possuem acesso ao Moodle UFC Quixad�
 
 Lembrando que todas estas questões foram elaboradas para serem resolvidas por programação comum (codificada), porém, elas podem ser resolvidas por programação por blocos, bastando ser criado um pequeno aplicativo com componentes que recebem as entradas das questões, um campo para mostrar o resultado, e um botão para disparar o evento de execução do algoritmo que você irá criar - coisa que a essa altura, não deve ser difícil para vocês fazerem. Quero dizer, foquem na parte lógica da programação por blocos, não precisa enfeitar demais a interface gráfica dos aplicativos. 
 
-Bons estudos e até o nosso último e não menos importante assunto, listas!
+Bons estudos pessoal, e sucesso na carreira de vocês, este material acaba aqui!
 
 </div>
